@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://albanyhvacny.com/sitemap.xml
